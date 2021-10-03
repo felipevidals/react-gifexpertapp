@@ -4,7 +4,7 @@ import { GifGrid } from './components/GifGrid';
 
 export const GitExpertApp = () => {
 
-    const [categories,setCategories] = useState(['steven universe']);
+    const [categories,setCategories] = useState(['attack on titan']);
 
     return (
         <>
